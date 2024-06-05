@@ -1,4 +1,7 @@
 struct Student{
 	chat name[100] = "";
 	int score = 0;
+
+void showStudent();
+
 };
